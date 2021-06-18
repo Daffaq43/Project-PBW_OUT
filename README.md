@@ -1,8 +1,10 @@
 projek ini dibuat dalam rangka projek final mk PBW. print out adalah web yang menawarkan jasa dalam print tugas untuk masyarakat umum terutama mahasiswa. Anggota Kelompok:
 
-Daffaq Syafiq Pasha 1908107010077
-Shabrina Miftahul Aida 1908107010027
-Muhammad Rizky Suni 1908107010047
+Daffaq Syafiq Pasha (1908107010077),
+Shabrina Miftahul Aida (1908107010027),
+Muhammad Rizky Suni (1908107010047)
+
+
 untuk menjalankan : import dulu database db_print_out ke localhost
 
 ketik "composer install" di cmd.
