@@ -5,7 +5,7 @@ Shabrina Miftahul Aida 1908107010027
 Muhammad Rizky Suni 1908107010047
 untuk menjalankan : import dulu database db_print_out ke localhost
 
-ketik "composer install" di cmd
+ketik "composer install" di cmd.
 
 buat file .env, isinya diambil dri .env.example
 
